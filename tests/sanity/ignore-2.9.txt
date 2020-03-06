@@ -1,0 +1,5 @@
+plugins/module_utils/remote_management/intersight.py future-import-boilerplate
+plugins/module_utils/remote_management/intersight.py metaclass-boilerplate
+plugins/modules/intersight_rest_api.py validate-modules:parameter-type-not-in-doc
+plugins/doc_fragments/intersight.py future-import-boilerplate
+plugins/doc_fragments/intersight.py metaclass-boilerplate
